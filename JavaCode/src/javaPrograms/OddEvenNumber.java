@@ -13,6 +13,8 @@ public class OddEvenNumber {
 		}
 		else {
 			System.out.println("this number is not even");
+			System.out.println("this number is not even");
+			
 		}
 
 	}
